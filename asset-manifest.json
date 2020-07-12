@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/gift-card-bank/static/css/main.2efd8b90.chunk.css",
+    "main.js": "/gift-card-bank/static/js/main.d2cfc976.chunk.js",
+    "main.js.map": "/gift-card-bank/static/js/main.d2cfc976.chunk.js.map",
+    "runtime-main.js": "/gift-card-bank/static/js/runtime-main.3e4041d9.js",
+    "runtime-main.js.map": "/gift-card-bank/static/js/runtime-main.3e4041d9.js.map",
+    "static/js/2.3dbc19bf.chunk.js": "/gift-card-bank/static/js/2.3dbc19bf.chunk.js",
+    "static/js/2.3dbc19bf.chunk.js.map": "/gift-card-bank/static/js/2.3dbc19bf.chunk.js.map",
+    "index.html": "/gift-card-bank/index.html",
+    "precache-manifest.0b4e6d5e94b765fb3c1b3f2900f4d888.js": "/gift-card-bank/precache-manifest.0b4e6d5e94b765fb3c1b3f2900f4d888.js",
+    "service-worker.js": "/gift-card-bank/service-worker.js",
+    "static/css/main.2efd8b90.chunk.css.map": "/gift-card-bank/static/css/main.2efd8b90.chunk.css.map",
+    "static/js/2.3dbc19bf.chunk.js.LICENSE.txt": "/gift-card-bank/static/js/2.3dbc19bf.chunk.js.LICENSE.txt",
+    "static/media/Icons-1.10933849.svg": "/gift-card-bank/static/media/Icons-1.10933849.svg",
+    "static/media/Icons-2.c3fae4dd.svg": "/gift-card-bank/static/media/Icons-2.c3fae4dd.svg",
+    "static/media/Icons-3.14b76718.svg": "/gift-card-bank/static/media/Icons-3.14b76718.svg",
+    "static/media/Icons-4.ac4be567.svg": "/gift-card-bank/static/media/Icons-4.ac4be567.svg",
+    "static/media/card-logos.png": "/gift-card-bank/static/media/card-logos.555f33ae.png",
+    "static/media/eligibility.png": "/gift-card-bank/static/media/eligibility.1a0789a3.png",
+    "static/media/gcb-logo.png": "/gift-card-bank/static/media/gcb-logo.01b2349c.png",
+    "static/media/gcb-logo.b1117c81.svg": "/gift-card-bank/static/media/gcb-logo.b1117c81.svg",
+    "static/media/hero-illustration.png": "/gift-card-bank/static/media/hero-illustration.cf27e5ae.png",
+    "static/media/partners.png": "/gift-card-bank/static/media/partners.5ea0f1a4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e4041d9.js",
+    "static/js/2.3dbc19bf.chunk.js",
+    "static/css/main.2efd8b90.chunk.css",
+    "static/js/main.d2cfc976.chunk.js"
+  ]
+}
