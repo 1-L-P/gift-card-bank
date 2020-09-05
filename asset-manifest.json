@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gift-card-bank/static/css/main.9c1e8d77.chunk.css",
-    "main.js": "/gift-card-bank/static/js/main.bf6e7782.chunk.js",
-    "main.js.map": "/gift-card-bank/static/js/main.bf6e7782.chunk.js.map",
+    "main.css": "/gift-card-bank/static/css/main.3476a013.chunk.css",
+    "main.js": "/gift-card-bank/static/js/main.3bcd5fdc.chunk.js",
+    "main.js.map": "/gift-card-bank/static/js/main.3bcd5fdc.chunk.js.map",
     "runtime-main.js": "/gift-card-bank/static/js/runtime-main.3e4041d9.js",
     "runtime-main.js.map": "/gift-card-bank/static/js/runtime-main.3e4041d9.js.map",
     "static/js/2.3dbc19bf.chunk.js": "/gift-card-bank/static/js/2.3dbc19bf.chunk.js",
     "static/js/2.3dbc19bf.chunk.js.map": "/gift-card-bank/static/js/2.3dbc19bf.chunk.js.map",
     "index.html": "/gift-card-bank/index.html",
-    "precache-manifest.9428de552e095c088382da06910928dc.js": "/gift-card-bank/precache-manifest.9428de552e095c088382da06910928dc.js",
+    "precache-manifest.07796a12e40f6163d15b8d98ef16e074.js": "/gift-card-bank/precache-manifest.07796a12e40f6163d15b8d98ef16e074.js",
     "service-worker.js": "/gift-card-bank/service-worker.js",
-    "static/css/main.9c1e8d77.chunk.css.map": "/gift-card-bank/static/css/main.9c1e8d77.chunk.css.map",
+    "static/css/main.3476a013.chunk.css.map": "/gift-card-bank/static/css/main.3476a013.chunk.css.map",
     "static/js/2.3dbc19bf.chunk.js.LICENSE.txt": "/gift-card-bank/static/js/2.3dbc19bf.chunk.js.LICENSE.txt",
     "static/media/Icons-1.10933849.svg": "/gift-card-bank/static/media/Icons-1.10933849.svg",
     "static/media/Icons-2.c3fae4dd.svg": "/gift-card-bank/static/media/Icons-2.c3fae4dd.svg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.3e4041d9.js",
     "static/js/2.3dbc19bf.chunk.js",
-    "static/css/main.9c1e8d77.chunk.css",
-    "static/js/main.bf6e7782.chunk.js"
+    "static/css/main.3476a013.chunk.css",
+    "static/js/main.3bcd5fdc.chunk.js"
   ]
 }
