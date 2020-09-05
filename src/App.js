@@ -29,8 +29,8 @@ class Navheader extends Component {
                 <Nav.Link href="#About">About</Nav.Link>
                 <Nav.Link href="#Team">Team</Nav.Link>
                 <Nav.Link href="#Contact">Contact</Nav.Link>
-                <Button style={{marginTop: 0}} variant="outline-primary">Login</Button>{' '}
-                <Button style={{marginTop: 0}} variant="primary">Apply</Button>{' '}
+                <Button style={{marginTop: 10}} variant="outline-primary">Login</Button>{' '}
+                <Button className="btn-right" style={{marginTop: 10}} variant="primary">Apply</Button>{' '}
                 </Nav>
             </Navbar.Collapse>
             </Navbar>
@@ -86,7 +86,7 @@ function Home() {
             </h2>
         </div>
 
-        <div className="columns process">
+        <div style={{paddingTop: '1rem'}}className="columns process">
         
             <div className="col-md-3 col-sm-12">
                 <Icon1 className="process-img" />
@@ -183,7 +183,7 @@ function Home() {
                 </h2>
             
                 <p>
-                    COVID-19 has devastated the global community in unprecedented ways.  Yet during the current pandemic, people around the globe has also stepped up and offered extraordinary acts of generosity and kindness to one another.  
+                    COVID-19 has devastated the global community in unprecedented ways. Yet during the current pandemic, people around the globe has also stepped up and offered extraordinary acts of generosity and kindness to one another. 
     The Gift Card Bank is a non profit organization that provides a platform for individuals to give a gift and share a card for someone in need at times of crisis.  
                 </p>
             
