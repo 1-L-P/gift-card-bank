@@ -56,9 +56,9 @@ function Home() {
                 Give a gift card to someone in need
             </h2>
         
-            <h3>
+            <p>
                 People across the country are being hit hard by COVID-19. We’re donating gift cards to those who are hurting the most. You can help. 
-            </h3>
+            </p>
         
 
             <button type="button" className="btn btn-outline-primary btn-lg">Donate</button>
@@ -75,9 +75,9 @@ function Home() {
             <h2>
                 $3 Billion
             </h2>
-            <h3>
+            <p>
                 In unspent gift cards go to waste every year. We're on a mission to change that.
-            </h3> 
+            </p> 
         </div>
 
         <div className="copy-block center-text col-md-6 col-sm-12" style={{padding: 0}}>

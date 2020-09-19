@@ -52,10 +52,10 @@
   h3 {font-size: 1.4rem;
       padding-bottom: 2rem;
       font-weight: normal;
-      color: #666;
+      color: #333;
       line-height: 1.5}
   
-  p {font-size: 1rem; color: #666; line-height: 1.6;}
+  p {font-size: 1rem; color: #333; line-height: 1.6;}
   
   p.caption {padding: 1rem}
   
